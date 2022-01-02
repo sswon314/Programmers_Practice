@@ -1,5 +1,12 @@
 package level_1;
 
+/* 
+ * 코딩 테스트 연습
+ * 신규 아이디 추천 문제
+ * https://programmers.co.kr/learn/courses/30/lessons/72410
+ * 핵심 내용 : 문자열 정규식
+ *  */
+
 class Recommend_New_Id {
     public String solution(String new_id) {
         String answer = "";
