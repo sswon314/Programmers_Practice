@@ -9,9 +9,6 @@ package level_1;
 
 import java.util.*;
 
-
-
-
 class Number_Of_K {
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];
