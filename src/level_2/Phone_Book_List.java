@@ -7,6 +7,8 @@ package level_2;
  * 핵심 내용 : 해쉬
  *  */
 
+import java.util.*;
+
 public class Phone_Book_List {
 	public boolean solution(String[] phone_book) {
         boolean answer = true;
