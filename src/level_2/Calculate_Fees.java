@@ -1,7 +1,7 @@
 package level_2;
 
 /* 
- * k 진수에서 소수 개수 구하기
+ * 코딩 테스트 연습
  * 주차 요금 계산
  * https://programmers.co.kr/learn/courses/30/lessons/92341
  * 핵심 내용 : 자료구조
