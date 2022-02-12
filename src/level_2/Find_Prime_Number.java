@@ -1,8 +1,8 @@
 package level_2;
 
 /* 
+ * 코딩 테스트 연습
  * k 진수에서 소수 개수 구하기
- * 기능 개발
  * https://programmers.co.kr/learn/courses/30/lessons/92335
  * 핵심 내용 : 수학
  *  */
